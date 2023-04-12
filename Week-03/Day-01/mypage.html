@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<!-- HTML stands for Hypertext Markup Language - it tells us WHAT (content) to show on our web pages -->
+<html lang="en">
+
+<!-- There should be only one head, over the body -->
+<head>
+    <!-- metadata means data about the data -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>George's Jazz page</title>
+
+    <!-- CSS stands for cascading style sheets - it tells us HOW (styling)) to show on our web pages -->
+
+    <!-- inside the style tag - this is called INTERNAL CSS -->
+    <style>
+            h1 {
+                color: rgb(255, 125, 255); /* 'color' changes the TEXT colour */
+            }
+    </style>
+
+    <!-- this point to EXTERNAL CSS-->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<!-- There should be only one body, under the head  -->
+<body>   <!-- This is a 'body' tag that OPENS the body section> -->
+
+    <!-- this is INLINE CSS, it has precedence over INTERNAL and EXTERNAL CSS -->
+    <!-- this CSS rule will remain inside this h1 - it won't be applied anywhere else -->
+    <!-- looks horible - don't use-->
+    <!-- style="color: rgb(255, 255, 255); text-align: center;"-->
+    <h1>All about me</h1>
+
+    <!--  adding an 'id' attribute to my h1 -->
+    <h1 id="h1AboutYou" class="">All about YOU</h1>
+    
+    <h2>Here's some lorem ipsum text</h2>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore officia qui, adipisci, consequuntur voluptates ipsam illum, animi ullam non nisi perferendis deleniti aspernatur sequi sapiente culpa repudiandae nam. Harum, quidem.</p>
+    <h2 id="amabout">Here's what I am about</h2>
+    <p>I like jazz</p>
+    
+    <!-- This here is a (hyper)link  -->
+    <!-- A link has attributes: are like variables but their name is pre-set, all are STRINGS -->
+
+    <a href="https://en.wikipedia.org/wiki/Jazz">
+        <!-- This here is an image  -->
+        <!-- Image does NOT take a closing tag-->
+        <!-- Image has attributes: are like variables but their name is pre-set, all are STRINGS -->
+        <img src="https://cdn-images.audioaddict.com/1/b/e/b/e/8/1bebe8759e23ab6a1b92e1d46e2e7f12.png" width="300" height="300">            
+    </a>
+
+    <h2>Here are some jazz musicians</h2>
+    <ol><!-- unordered list OPENING tag  -->
+        <li>   
+            <a href="https://en.wikipedia.org/wiki/Miley_Cyrus">
+                  Miley Cyrus
+            </a>
+        </li>
+        <li>Dizzy Gillespie</li>
+        <li class="largeListItem">Miles Davies</li>
+        <li class="largeListItem">Ella Fitzgerald</li>
+        <li class="largeListItem"
+        id="lastLi">Cassandra Wilson</li>
+    </ol><!-- unordered list CLOSING tag  -->
+    
+</body>  <!-- This is a '/body' tag that CLOSES the body section> -->
+
+</html>

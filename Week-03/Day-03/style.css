@@ -1,0 +1,63 @@
+/* We have now entered into CSS teritory THIS is no longer HTML */
+/* This is a comment - looks like a multi-line javascript comment */
+/* 0 - (2^8 - 1) = 0-255  8 bits per colour */
+/* (RED, GREEN, BLUE) */
+body {
+    background-color: rgb(0, 0, 0); /* background-color changes the page colour */
+    color: white;
+    margin: 20px;
+}
+
+h1 { 
+    font-size: 30px;
+}
+h2 {
+    font-size: 24px;
+}
+p{ /* selector - what we apply the CSS to */
+    color:rgb(255, 200, 200);
+}
+ol, li, a {
+    /* text-align: center;
+    list-style-position: inside;*/
+    color:rgb(255, 255, 255);
+}
+
+img {
+     padding: 15px;
+     border: 5px solid white;   
+     margin: 5px;     
+}
+
+
+
+/* This one's for the saxophone player picture - I want this one on the RIGHT */
+#sax {
+    float: right;
+    margin-left: 20px;
+}
+
+/* This one's for the band picture - I want this one on the LEFT */
+#band {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+/* # means 'id' used for exaclty ONE tag*/
+#h1AboutYou{
+    color: rgb(255, 255, 255); 
+    text-align: center;
+}
+#amabout {
+    color: rgb(191, 233, 107); 
+}
+
+/* . means 'class' used of a group of tags */
+.largeListItem {
+    font-size: 30px;
+}
+
+#lastLi {
+    font-size: 50px;
+}

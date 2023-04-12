@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+
+        <!-- Calling on an EXTERNAL js file to use with this page --> 
+    </head>
+    <body>
+        <p id="paragraphBox">Hello, this is George</p>
+        <p id="boxyBox">Hello, this is Ben</p>
+        <img id="elephant" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Elephant_Diversity.jpg/440px-Elephant_Diversity.jpg" width="300" height="200">
+
+        <!-- 
+            the onclick attribute declares what happens when an element is clicked
+            inside the onclick quotes we can write javascript 
+            watch out for the camelCase 
+            Using the DOM here - Document Object Model
+            The innerHTML is what is between the tags
+            document - the whole html document
+            getElementById('paragraphBox') is <p id="paragraphBox">Hello, this is George</p>
+            innerHTML is Hello, this is George
+        -->
+        <!-- George - function call-->
+        <button onclick="georgeFunction()">George</button>
+        
+        <!-- Ben - function call-->
+        <button onclick="benFunction()">Ben</button>
+
+        <!-- Elephant - function call -->
+        <button onclick="changePic()">Elephant</button>
+
+        <script type="text/javascript" src="functions.js"></script>
+    </body>
+</html>

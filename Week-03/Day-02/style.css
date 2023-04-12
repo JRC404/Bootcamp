@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: orangered;
+}
+
+h2 {
+    color: rgb(20, 125, 231);
+}
+
+p {
+    color: rgb(22, 188, 22);
+}
+
+.myClass {
+    color: goldenrod;
+}
+
+#myLovelyID {
+    color: magenta;
+}
