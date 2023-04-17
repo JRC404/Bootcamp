@@ -1,0 +1,15 @@
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\bin\Debug\net7.0\loopArrayExercises.exe
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\bin\Debug\net7.0\loopArrayExercises.deps.json
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\bin\Debug\net7.0\loopArrayExercises.runtimeconfig.json
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\bin\Debug\net7.0\loopArrayExercises.dll
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\bin\Debug\net7.0\loopArrayExercises.pdb
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\obj\Debug\net7.0\loopArrayExercises.csproj.AssemblyReference.cache
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\obj\Debug\net7.0\loopArrayExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\obj\Debug\net7.0\loopArrayExercises.AssemblyInfoInputs.cache
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\obj\Debug\net7.0\loopArrayExercises.AssemblyInfo.cs
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\obj\Debug\net7.0\loopArrayExercises.csproj.CoreCompileInputs.cache
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\obj\Debug\net7.0\loopArrayExercises.dll
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\obj\Debug\net7.0\refint\loopArrayExercises.dll
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\obj\Debug\net7.0\loopArrayExercises.pdb
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\obj\Debug\net7.0\loopArrayExercises.genruntimeconfig.cache
+C:\Users\gkonos\OneDrive - Firebrand Training Limited\Desktop\Lloyds bootcamp 03\week4\day1\loopArrayExercises\obj\Debug\net7.0\ref\loopArrayExercises.dll
