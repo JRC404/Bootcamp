@@ -1,0 +1,15 @@
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\obj\Debug\net6.0\CSharp-Demo.csproj.AssemblyReference.cache
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\obj\Debug\net6.0\CSharp-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\obj\Debug\net6.0\CSharp-Demo.AssemblyInfoInputs.cache
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\obj\Debug\net6.0\CSharp-Demo.AssemblyInfo.cs
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\obj\Debug\net6.0\CSharp-Demo.csproj.CoreCompileInputs.cache
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\bin\Debug\net6.0\CSharp-Demo.exe
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\bin\Debug\net6.0\CSharp-Demo.deps.json
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\bin\Debug\net6.0\CSharp-Demo.runtimeconfig.json
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\bin\Debug\net6.0\CSharp-Demo.dll
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\bin\Debug\net6.0\CSharp-Demo.pdb
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\obj\Debug\net6.0\CSharp-Demo.dll
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\obj\Debug\net6.0\refint\CSharp-Demo.dll
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\obj\Debug\net6.0\CSharp-Demo.pdb
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\obj\Debug\net6.0\CSharp-Demo.genruntimeconfig.cache
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-04\CSharp-Demo\obj\Debug\net6.0\ref\CSharp-Demo.dll

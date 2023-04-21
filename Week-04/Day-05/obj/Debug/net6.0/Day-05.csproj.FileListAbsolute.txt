@@ -1,0 +1,15 @@
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\bin\Debug\net6.0\Day-05.exe
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\bin\Debug\net6.0\Day-05.deps.json
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\bin\Debug\net6.0\Day-05.runtimeconfig.json
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\bin\Debug\net6.0\Day-05.dll
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\bin\Debug\net6.0\Day-05.pdb
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\obj\Debug\net6.0\Day-05.csproj.AssemblyReference.cache
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\obj\Debug\net6.0\Day-05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\obj\Debug\net6.0\Day-05.AssemblyInfoInputs.cache
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\obj\Debug\net6.0\Day-05.AssemblyInfo.cs
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\obj\Debug\net6.0\Day-05.csproj.CoreCompileInputs.cache
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\obj\Debug\net6.0\Day-05.dll
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\obj\Debug\net6.0\refint\Day-05.dll
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\obj\Debug\net6.0\Day-05.pdb
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\obj\Debug\net6.0\Day-05.genruntimeconfig.cache
+C:\Users\jrcooper\OneDrive - Firebrand Training Limited\SME\Lloyds Bootcamps\Lloyds-03\Week-04\Day-05\obj\Debug\net6.0\ref\Day-05.dll

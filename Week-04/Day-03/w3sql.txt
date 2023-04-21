@@ -1,0 +1,103 @@
+-- LENGTH([COLUMN]) = x will give you results where the string in that column is x characters
+SELECT * FROM Customers
+WHERE LENGTH(PostalCode) = 4;
+
+-- Country is 'Germany' and City is NOT 'Berlin'
+SELECT * FROM Customers
+WHERE Country='Germany' AND NOT City='Berlin';
+
+
+-- The minimum price and will rename it as smallestPrice
+SELECT MIN(Price) AS smallestPrice, ProductName FROM Products;
+
+
+-- Will return the number of Customers who are located in Germany but not in Berlin
+SELECT 
+	COUNT(*)
+FROM 
+	Customers
+WHERE 
+	Country='Germany'
+    AND NOT City='Berlin';
+
+
+-- All Customers whose CustomerName starts with an 'a' or 'A'
+SELECT 
+	* 
+FROM 
+	Customers
+WHERE 
+	CustomerName LIKE 'a%';
+
+-- All Customers whose CustomerName ends with an 'a' or 'A'
+	CustomerName LIKE '%a';
+
+-- All Customers whose CustomerName has a 'z' or 'Z' anywhere
+	CustomerName LIKE '%z%';
+
+
+primary key = identifier = ID
+Identifies a ROW in our table
+primary key needs to be unique
+
+school ---E  teacher     ONE to MANY
+teacher 3----E pulils	 MANY to MANY
+
+ONE to MANY relationship
+The ONE table will have the primary key of the MANY table
+Supplier ----E  Product
+Product, will have SupplierID as a secondary / foreign key
+a secondary key can be duplicated across many records
+In such a case it is always the MANY table that has the ID of the ONE table 
+
+
+-- Gives you all the Products for SupplierID = 1
+SELECT * FROM Products WHERE SupplierID = 1;
+
+-- The same using table names
+SELECT Products.* FROM Products WHERE Products.SupplierID = 1;
+
+-- Does exactly the same thing, but now we can use the SupplierNAME or any other Suppliers column instead of the ID
+
+SELECT Products.*
+FROM Products
+INNER JOIN Suppliers
+ON Products.SupplierID = Suppliers.SupplierID
+WHERE Suppliers.Address = '49 Gilbert St.'
+WHERE Suppliers.SupplierNAME = 'Exotic Liquid'
+
+
+-- This is an INNER JOIN but also SELECTS for information relevant to a user and, drills down to a more speciffic search
+SELECT Products.ProductName, Products.Unit, Products.Price
+FROM Products
+INNER JOIN Categories
+ON Products.CategoryID = Categories.CategoryID
+WHERE Categories.CategoryName = 'Condiments'
+AND Products.Price < 20
+
+--For a Many to Many relationship we need an intermediate table. Usualy these (intermediate) tables have the names of both the tables they connect. In this instance OrderDetails is the intermediate table. 
+
+-- A straight MANY to MANY relationship is impossible between to tables. Instead wel use an intermediate table and our original two tables will connect with a one to many relationship to that table 
+MANY 3----E MANY  =    ONE ---E MANY 3---- ONE
+-- the intermediate table stores all the compbinations between the original tables that you want to have which are typicaly many more than the records on the tables themselves.
+
+SELECT 
+	Products.ProductName, 
+	Products.Price, 
+	Orders.OrderID, 
+	OrderDetails.Quantity 
+FROM 
+	Products
+INNER JOIN 
+	OrderDetails
+ON Products.ProductID = OrderDetails.ProductID
+INNER JOIN 
+	Orders
+ON OrderDetails.OrderID = Orders.OrderID
+WHERE 
+	OrderDate = '1996-07-04'
+
+
+
+
+
